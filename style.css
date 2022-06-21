@@ -32,9 +32,15 @@ body{
     background-image: linear-gradient(to bottom,hsl(0,-1%,70%),hsl(0,-1%,60%) 10%,white 40%,white 60%,hsl(0,-1%,50%) 90%,hsl(0,-1%,60%));
 }
 
+#social-icons {
+    bottom: 185px;
+    left: 9px;
+    position: relative;
+}
+
 #login {
-    bottom: 200px;
-    left: 152px;
+    bottom: 225px;
+    left: 150px;
     position: relative;
 }
 
