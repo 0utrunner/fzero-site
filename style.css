@@ -1,10 +1,19 @@
 body{
     background-color: rgb(35, 35, 123);
 }
+
 #fz-image {
     position: relative;
     bottom: 156px;
     right: 3px;
+}
+
+.nav-sections {
+    position: relative;
+    color: #dcdcdc;
+    font-family: verdana;
+    font-style: italic;
+    text-shadow: 1px 5px 2px black;
 }
 
 #menu-box {
@@ -42,6 +51,21 @@ body{
     bottom: 225px;
     left: 150px;
     position: relative;
+}
+
+.face{
+    position: relative;
+    left: 10px;
+}
+
+.yout{
+    position: relative;
+    left: 20px;
+}
+
+.twch{
+    position: relative;
+    left: 30px;
 }
 
 #welcome-news{
