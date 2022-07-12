@@ -26,7 +26,7 @@ body{
 #psa {
     background-color: rgb(248, 222, 126);
     position: relative;
-    bottom: 160px;
+    bottom: 337px;
     right: 3px;
     padding: 8px;
     font-size: 12pt;
@@ -35,20 +35,20 @@ body{
 #login-bar {
     width: 1308px;
     height: 30px;
-    bottom: 160px;
+    bottom: 337px;
     right: 3px;
     position: relative;
     background-image: linear-gradient(to bottom,hsl(0,-1%,70%),hsl(0,-1%,60%) 10%,white 40%,white 60%,hsl(0,-1%,50%) 90%,hsl(0,-1%,60%));
 }
 
 #social-icons {
-    bottom: 185px;
+    bottom: 362px;
     left: 9px;
     position: relative;
 }
 
 #login {
-    bottom: 225px;
+    bottom: 401px;
     left: 150px;
     position: relative;
 }
@@ -72,14 +72,19 @@ body{
     display: flex;
     justify-content: center;
     position: relative;
-    bottom: 100px;
+    bottom: 300px;
     opacity: 0.4;
 }
 
 #under-construction {
     position: relative;
     left: 625px;
-    bottom: 250px;
+    bottom: 550px;
     font-size: 40pt;
     font-weight: 600;
+}
+
+#construction-image {
+    position: relative;
+    bottom: 300px;
 }
