@@ -23,10 +23,25 @@ body{
     background-image: linear-gradient(black, rgb(35, 35, 123));
 }
 
+#games {
+    position: relative;
+    bottom: 462px;
+    left: 409px;
+    color: #dcdcdc;
+    font-family: verdana;
+    font-style: italic;
+    text-shadow: 1px 5px 2px black;
+}
+
+.image {
+    position: relative;
+    bottom: 26px;
+}
+
 #psa {
     background-color: rgb(248, 222, 126);
     position: relative;
-    bottom: 337px;
+    bottom: 478px;
     right: 3px;
     padding: 8px;
     font-size: 12pt;
@@ -35,20 +50,20 @@ body{
 #login-bar {
     width: 1308px;
     height: 30px;
-    bottom: 337px;
+    bottom: 478px;
     right: 3px;
     position: relative;
     background-image: linear-gradient(to bottom,hsl(0,-1%,70%),hsl(0,-1%,60%) 10%,white 40%,white 60%,hsl(0,-1%,50%) 90%,hsl(0,-1%,60%));
 }
 
 #social-icons {
-    bottom: 362px;
+    bottom: 503px;
     left: 9px;
     position: relative;
 }
 
 #login {
-    bottom: 401px;
+    bottom: 542px;
     left: 150px;
     position: relative;
 }
