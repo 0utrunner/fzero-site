@@ -20,7 +20,7 @@ body{
     width: 1305px;
     height: 156px;
     position: relative;
-    background-image: linear-gradient(black, rgb(35, 35, 123));
+    background-image: linear-gradient(rgb(1, 5, 60), rgb(35, 35, 123));
 }
 
 #games {
@@ -33,9 +33,39 @@ body{
     text-shadow: 1px 5px 2px black;
 }
 
-.image {
+.image1 {
     position: relative;
-    bottom: 26px;
+    bottom: 26.5px;
+}
+
+.image2 {
+    position: relative;
+    bottom: 26.5px;
+    right: 5.5px;
+}
+
+.image3 {
+    position: relative;
+    bottom: 26.5px;
+    right: 11.5px;
+}
+
+.image4 {
+    position: relative;
+    bottom: 26.5px;
+    right: 17px;
+}
+
+.image5 {
+    position: relative;
+    bottom: 26.5px;
+    right: 22.5px;
+}
+
+.image6{
+    position: relative;
+    bottom: 26.5px;
+    right: 28px;
 }
 
 #psa {
