@@ -17,7 +17,7 @@ body{
 }
 
 #menu-box {
-    width: 1305px;
+    display: flex;
     height: 156px;
     position: relative;
     background-image: linear-gradient(rgb(1, 5, 60), rgb(35, 35, 123));
@@ -78,7 +78,7 @@ body{
 }
 
 #login-bar {
-    width: 1308px;
+    display: flex;
     height: 30px;
     bottom: 478px;
     right: 3px;
